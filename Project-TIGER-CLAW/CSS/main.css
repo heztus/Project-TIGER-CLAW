@@ -1,0 +1,44 @@
+body 
+{
+    background-image: url('/images/background.jpg');
+    font-family: Arial, Helvetica, sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+h1 {
+    font-size: 80px;
+    margin-left: 510px;
+    margin-top: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+
+    
+    
+}
+
+
+.resources {
+    font-size: 30px;
+    margin-left: 500px;
+
+}
+
+.tiger {
+    width: 300px;
+    object-fit: cover;
+    border-radius: 20px;
+    margin-left: 615px;
+    margin-top: 50px;
+    
+
+}
+
+.lessons {
+    margin-left: 40px;
+}
+
+.guide {
+    margin-left: 40px;
+}

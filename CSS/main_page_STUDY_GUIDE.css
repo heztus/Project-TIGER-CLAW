@@ -1,0 +1,29 @@
+body {
+    background-image: url("/images/background.jpg");
+  }
+
+  .tiger2 {
+
+    width: 500px;
+    float:left;
+    object-fit: cover;
+    margin-top: 20px;
+    border-radius: 20px;
+
+  }
+
+  h1 {
+
+        margin-left: 900px;
+        font-size: 60px;
+  }
+
+
+
+  .modules {
+
+    margin-left: 600px;
+    font-size: 50px;
+
+
+  }
